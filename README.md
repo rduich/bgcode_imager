@@ -16,8 +16,8 @@ This GUI tool allows you to **load**, **preview**, **replace**, and **export** e
 
 * Python 3.8+
 * Tkinter (included with most Python installations)
-* [Pillow](https://python-pillow.org) - image processing
-* [numpy](https://numpy.org)
+* [Pillow](https://python-pillow.github.io/) - image processing
+* [numpy](https://numpy.org/)
 * [qoi](https://github.com/phoboslab/qoi) Python reader or compatible module
 
 Install required packages with:
