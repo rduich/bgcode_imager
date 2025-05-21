@@ -2,7 +2,7 @@
 
 This GUI tool allows you to **load**, **preview**, **replace**, and **export** embedded images (QOI/PNG) in `.bgcode` files used by Prusa 3D printers. It's particularly useful for editing the preview thumbnails displayed on your printer.
 
-![Screenshot](./images/benchy_sample.PNG)
+
 
 ## Features
 
@@ -52,7 +52,7 @@ python bgcode_image_switcher.py
 
 Here is how the tool looks in action:
 
-![BGCode Preview Example](./a4c98024-cf9e-4a46-b827-1f9f24d7bd62.png)
+![Screenshot](./images/benchy_sample.PNG)
 
 ## Notes
 
